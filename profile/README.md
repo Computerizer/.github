@@ -7,5 +7,5 @@ Computerize your life....
 ## Connect with us on: 
 
 Twitter: &nbsp;&nbsp;&nbsp;<https://twitter.com/computerizerpc>  
-Reddit: &nbsp;&nbsp;&nbsp;<https://www.reddit.com/r/computerizer/>  
-Linkedin: <https://www.linkedin.com/company/thecomputerizer>
+Reddit: &nbsp;&nbsp;&nbsp;&nbsp;<https://www.reddit.com/r/computerizer/>  
+Linkedin: &nbsp;<https://www.linkedin.com/company/thecomputerizer>
