@@ -1,4 +1,4 @@
-<img src='https://github.com/Computerizer/META/blob/main/Name%20only%20(widescreen).png' width='1000'>
+<img src='https://github.com/Computerizer/META/blob/main/wide.png' width='1000'>
 
 Aiming to be the largest consumer products network online, offering services and news tailored and targeted towards both beginners and professionals.  
 Computerize your life....
