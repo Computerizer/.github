@@ -5,6 +5,6 @@ Computerize your life....
 
 ## Connect with us on: 
 
-Twitter: <https://twitter.com/computerizerpc>  
+Twitter: <https://twitter.com/computerizer__>  
 Reddit: <https://www.reddit.com/r/computerizer/>  
 Linkedin: <https://www.linkedin.com/company/thecomputerizer>
