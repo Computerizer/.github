@@ -6,6 +6,6 @@ Computerize your life....
 ## Connect with us on: 
 
 Twitter: <https://twitter.com/computerizer__>  
-Instagram: <https://www.instagram.com/computerizer__/>
+Instagram: <https://www.instagram.com/computerizer__/>  
 Reddit: <https://www.reddit.com/r/computerizer/>  
 Linkedin: <https://www.linkedin.com/company/thecomputerizer>
